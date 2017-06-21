@@ -2,5 +2,13 @@
   "name": "js-tdd",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts":{
+    "test": "jest",
+    "watch": "jest --watchAll"
+  }, 
+  "devDependencies": {
+    "jest": "^20.0.4",
+    "webpack": "^3.0.0"
+  }
 }
