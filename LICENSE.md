@@ -1,0 +1,1 @@
+Totally open and free to use for whatever with or without crediting me.
